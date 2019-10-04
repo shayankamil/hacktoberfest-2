@@ -422,3 +422,9 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+#### Name: [Shayan Kamil](https://github.com/shayankamil)
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [Shayan Kamil](https://github.com/shayankamil)
+
